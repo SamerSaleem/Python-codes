@@ -1,0 +1,25 @@
+instances:
+- host: 173.20.1.1
+  timeout: 1.0
+  tags:
+  - ip:173.20.1.1
+  - env:prod
+  - type:virtual
+  - name:2-base
+  - hardware:server
+- host: 174.28.2.2
+  timeout: 1.0
+  tags:
+  - ip:174.28.2.2
+  - env:prod
+  - type:virtual
+  - name:2-game
+  - hardware:server
+- host: 174.28.32.8
+  timeout: 1.0
+  tags:
+  - ip:174.28.32.8
+  - env:prod
+  - type:virtual
+  - name:2-play
+  - hardware:server
