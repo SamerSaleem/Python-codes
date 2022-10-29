@@ -1,0 +1,12 @@
+[
+    {
+      "device": "rtr1",
+      "ip": "10.0.0.1",
+      "locatio": "baghdad"
+    },
+    {
+      "device": "SW1",
+      "ip": "192.168.3.3",
+      "locatio": "Datacenter"
+    }
+   ]
