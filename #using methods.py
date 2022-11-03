@@ -14,4 +14,3 @@ print('this is my last print', mycolors)
 
 mycolors.clear()
 print('Another method with my son Arya', mycolors)
-
