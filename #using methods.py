@@ -12,5 +12,8 @@ print('this is my 2nd print', mycolors)
 mycolors.reverse()  #using reverse to print the list backwards.
 print('this is my last print', mycolors)
 
-mycolors.clear()
-print('Another method with my son Arya', mycolors)
+#mycolors.clear()
+#print('Another method with my son Arya', mycolors)
+mycolors.extend(('white', 'yellow', 'zebra')) #extend will add multiple values to list.
+mycolors.sort()
+print('This is your list sorted out', mycolors)
